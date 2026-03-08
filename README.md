@@ -17,12 +17,23 @@ Official repository for BTCLE token metadata, wallet asset listing files, and pu
 
 - Website: [https://bitcoin-limitededition.com](https://bitcoin-limitededition.com)
 - Whitepaper: [https://bitcoin-limitededition.com/?page=whitepaper](https://bitcoin-limitededition.com/?page=whitepaper)
+- Repository: [https://github.com/mohamedhekal/BTC-Limited-Edition](https://github.com/mohamedhekal/BTC-Limited-Edition)
 - BscScan Token: [https://bscscan.com/token/0x9d2144328e1d618F54Cd38540F5eE50671f6A208](https://bscscan.com/token/0x9d2144328e1d618F54Cd38540F5eE50671f6A208)
 - BscScan Source Code: [https://bscscan.com/address/0x9d2144328e1d618F54Cd38540F5eE50671f6A208#code](https://bscscan.com/address/0x9d2144328e1d618F54Cd38540F5eE50671f6A208#code)
 - CoinMarketCap: [https://coinmarketcap.com/currencies/bitcoin-limited-edition/](https://coinmarketcap.com/currencies/bitcoin-limited-edition/)
 - CoinGecko: [https://www.coingecko.com/en/coins/bitcoin-limited-edition/](https://www.coingecko.com/en/coins/bitcoin-limited-edition/)
 - Telegram: [https://t.me/BTCLE_Official](https://t.me/BTCLE_Official)
 - X (Twitter): [https://x.com/bitcoinbtcle](https://x.com/bitcoinbtcle)
+- YouTube: [https://www.youtube.com/channel/UCoaavFJPuEvfr2Pd2BMCgpg](https://www.youtube.com/channel/UCoaavFJPuEvfr2Pd2BMCgpg)
+- Facebook: [https://www.facebook.com/people/Bitcoin-Limited-Edition/61578997194908/](https://www.facebook.com/people/Bitcoin-Limited-Edition/61578997194908/)
+- LinkedIn: [https://www.linkedin.com/company/102167031/](https://www.linkedin.com/company/102167031/)
+- Instagram: [https://www.instagram.com/bitcoin.limited.edition/](https://www.instagram.com/bitcoin.limited.edition/)
+- TikTok: [https://www.tiktok.com/@bitcoin.limited.e?_t=8nT1OjVqQQk&_r=1](https://www.tiktok.com/@bitcoin.limited.e?_t=8nT1OjVqQQk&_r=1)
+- Snapchat: [https://www.snapchat.com/add/bitcoinlimitede?share_id=1EjjzZd4Kuo&locale=en-US](https://www.snapchat.com/add/bitcoinlimitede?share_id=1EjjzZd4Kuo&locale=en-US)
+- Luma: [https://luma.com/user/BTCLE](https://luma.com/user/BTCLE)
+- Medium: [https://medium.com/@Bitcoin_Limited_Edition](https://medium.com/@Bitcoin_Limited_Edition)
+- Discord: [https://discord.com/channels/1260139777253183488/1276111675543781449](https://discord.com/channels/1260139777253183488/1276111675543781449)
+- Reddit: [https://reddit.com/r/BTCLEOfficial](https://reddit.com/r/BTCLEOfficial)
 
 ## Repository Contents
 
@@ -83,7 +94,7 @@ In MetaMask:
 
 After publishing this repository, this file can be used as a token list URL:
 
-`https://raw.githubusercontent.com/BitcoinLimitedEdition1/btcle-listing-repo/main/tokenlist.json`
+`https://raw.githubusercontent.com/mohamedhekal/BTC-Limited-Edition/main/tokenlist.json`
 
 Users can import this token list URL in wallets/dApps that support custom token lists.
 
@@ -108,4 +119,3 @@ Trust Wallet review and merge are manual and not guaranteed.
 ## Disclaimer
 
 This repository is for public token metadata and documentation. It is not financial advice.
-# BTC-Limited-Edition

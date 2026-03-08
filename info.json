@@ -12,7 +12,7 @@
   "links": [
     {
       "name": "github",
-      "url": "https://github.com/BitcoinLimitedEdition1/btcle-listing-repo"
+      "url": "https://github.com/mohamedhekal/BTC-Limited-Edition"
     },
     {
       "name": "whitepaper",
@@ -37,6 +37,26 @@
     {
       "name": "docs",
       "url": "https://bitcoin-limitededition.com/?page=whitepaper"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/@Bitcoin_Limited_Edition"
+    },
+    {
+      "name": "youtube",
+      "url": "https://www.youtube.com/channel/UCoaavFJPuEvfr2Pd2BMCgpg"
+    },
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/people/Bitcoin-Limited-Edition/61578997194908/"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/channels/1260139777253183488/1276111675543781449"
+    },
+    {
+      "name": "reddit",
+      "url": "https://reddit.com/r/BTCLEOfficial"
     }
   ],
   "tags": [
